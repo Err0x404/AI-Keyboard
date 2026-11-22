@@ -1,0 +1,14 @@
+版權與來源聲明
+
+本專案原始碼採 GPL-3.0-only 授權。本專案內含之第三方元件、詞典與 AI 模型各自受其原授權或使用條款規範，不因本專案採 GPL-3.0 授權而改變。
+
+- 專案自編與自製內容：專案中自行編寫的程式碼、情境設定、候選／短語與符號配置、以及自製圖示皆屬專案內容（若涉及外部參考資料將另行標示）。
+- 裝置端運作：透過離線模型，不依賴雲端額度，依版本不同可能採隨裝打包，或需額外下載。
+- librime 核心：RIME Developers；BSD-3-Clause。用於注音／拼音組字與候選處理。
+- Rime 注音、地球拼音、Prelude 與 Essay：RIME Developers；上游授權為 LGPL-3.0。Essay 提供中文詞彙候選資料。
+- CC-CEDICT：MDBG／CC-CEDICT；CC BY-SA 3.0。地球拼音相關詞典資料依其歸屬與相同方式分享條款使用。
+- OpenCC：BYVoid 與貢獻者；Apache-2.0。用於繁簡轉換。
+- Rime 原生靜態依賴：原生建置包含 spdlog（MIT）、yaml-cpp（MIT）、LevelDB（BSD-3-Clause）、marisa-trie（BSD-2-Clause 或 LGPL-2.1-or-later）、Boost（BSL-1.0）及 OpenCC（Apache-2.0）等元件，各自依其授權條款提供。
+- llamacpp-kotlin 與 llama.cpp：llamacpp-kotlin 採 Apache-2.0，llama.cpp 採 MIT，用於裝置端推論整合。
+- Gemma 3 1B IT Q4_K_M：Google Gemma 模型，受 Gemma Terms of Use 規範，不屬於 GPL 授權；量化檔來源為 Unsloth 發布頁面。
+- Android / AndroidX / Jetpack Compose / Kotlin：提供系統與介面元件支援，依各套件實際授權（多數為 Apache-2.0）提供。

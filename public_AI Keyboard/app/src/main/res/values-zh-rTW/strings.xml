@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Keyboard 鍵盤</string>
+    <string name="ime_name">AI Keyboard 鍵盤</string>
+    <string name="model_selector_label">鍵盤模型</string>
+    <string name="model_selector_placeholder">選擇模型</string>
+    <string name="model_group_local">本機模型</string>
+    <string name="model_name_gemma">Gemma 3 1B IT Q4_K_M</string>
+    <string name="model_status_title">本機模型狀態</string>
+    <string name="model_status_checking">正在檢查本機模型…</string>
+    <string name="model_status_initializing">正在檢查本機模型，請稍候...</string>
+    <string name="model_status_ready">模型已在 App 私有目錄就緒，可供推論引擎載入。</string>
+    <string name="model_status_error">本機模型檢查失敗：%1$s</string>
+    <string name="model_error_unknown">未知錯誤</string>
+    <string name="ai_generation_error">AI 生成失敗，請稍後再試。</string>
+    <string name="usage_disclaimer_statement">AI 情境及模型提供的詞句，僅供使用者參考。\n\n使用者有義務在將文字送出前，仔細評估。\n\n使用者有負責義務，不能因此而免責。</string>
+    <string name="usage_disclaimer_notes_label">NOTES:</string>
+    <string name="usage_disclaimer_notes_body">當使用者複製詞句或打字時，內建功能會依據提供參考的詞句，但有可能是錯誤或沒有合適的詞句可提供。</string>
+    <string name="copyright_source_title">版權與來源聲明</string>
+    <string name="copyright_source_button">來源版權</string>
+    <string name="copyright_source_notice">本專案原始碼採 GPL-3.0-only 授權。本專案內含之第三方元件、詞典與 AI 模型各自受其原授權或使用條款規範，不因本專案採 GPL-3.0 授權而改變。\n\n- 專案自編與自製內容：專案中自行編寫的程式碼、情境設定、候選／短語與符號配置、以及自製圖示皆屬專案內容（若涉及外部參考資料將另行標示）。\n- 裝置端運作：透過離線模型，不依賴雲端額度，依版本不同可能採隨裝打包，或需額外下載。\n- librime 核心：RIME Developers；BSD-3-Clause。用於注音／拼音組字與候選處理。\n- Rime 注音、地球拼音、Prelude 與 Essay：RIME Developers；上游授權為 LGPL-3.0。Essay 提供中文詞彙候選資料。\n- CC-CEDICT：MDBG／CC-CEDICT；CC BY-SA 3.0。地球拼音相關詞典資料依其歸屬與相同方式分享條款使用。\n- OpenCC：BYVoid 與貢獻者；Apache-2.0。用於繁簡轉換。\n- Rime 原生靜態依賴：原生建置包含 spdlog（MIT）、yaml-cpp（MIT）、LevelDB（BSD-3-Clause）、marisa-trie（BSD-2-Clause 或 LGPL-2.1-or-later）、Boost（BSL-1.0）及 OpenCC（Apache-2.0）等元件，各自依其授權條款提供。\n- llamacpp-kotlin 與 llama.cpp：llamacpp-kotlin 採 Apache-2.0，llama.cpp 採 MIT，用於裝置端推論整合。\n- Gemma 3 1B IT Q4_K_M：Google Gemma 模型，受 Gemma Terms of Use 規範，不屬於 GPL 授權；量化檔來源為 Unsloth 發布頁面。\n- Android / AndroidX / Jetpack Compose / Kotlin：提供系統與介面元件支援，依各套件實際授權（多數為 Apache-2.0）提供。</string>
+    <string name="about_app_title">關於 APP</string>
+    <string name="about_app_version">版本 %1$s（%2$d）</string>
+    <string name="about_app_close">關閉</string>
+    <string name="privacy_usage_button">隱私與使用</string>
+    <string name="privacy_usage_title">隱私與使用</string>
+    <string name="privacy_usage_details">裝置端運作：AI 情境回覆與相關推論使用本機離線模型，不依賴雲端額度；依版本不同，模型可能隨 App 安裝打包，或需額外下載。\n\n本機處理：輸入內容與模型推論由裝置端功能處理。請勿輸入高度機密資訊或敏感個人資料。\n\n清除資料：清除本機使用者字庫可能移除現有學習字詞；操作前請先備份需要保留的資料。</string>
+</resources>

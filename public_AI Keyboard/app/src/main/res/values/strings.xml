@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AI Keyboard 鍵盤</string>
+    <string name="ime_name">AI Keyboard 鍵盤</string>
+    <string name="model_selector_label">Keyboard model</string>
+    <string name="model_selector_placeholder">Select a model</string>
+    <string name="model_group_local">Local models</string>
+    <string name="model_name_gemma">Gemma 3 1B IT Q4_K_M</string>
+    <string name="model_status_title">Local model status</string>
+    <string name="model_status_checking">Checking local model…</string>
+    <string name="model_status_initializing">Checking local model, please wait...</string>
+    <string name="model_status_ready">The model is ready in the app\'s private directory.</string>
+    <string name="model_status_error">Local model check failed: %1$s</string>
+    <string name="model_error_unknown">Unknown error</string>
+    <string name="ai_generation_error">AI generation failed. Please try again later.</string>
+    <string name="usage_disclaimer_statement">Suggestions provided by AI scenarios and models are for reference only.\n\nUsers have a duty to carefully evaluate text before sending it.\n\nUsers remain responsible for their wording and are not exempt from responsibility simply because AI was used.</string>
+    <string name="usage_disclaimer_notes_label">NOTES:</string>
+    <string name="usage_disclaimer_notes_body">When you copy text or type, built-in features may provide reference suggestions, which may be inaccurate, erroneous, or unavailable when no suitable suggestion applies.</string>
+    <string name="copyright_source_title">Copyright and Source Notice</string>
+    <string name="copyright_source_button">Copyright &amp; Source</string>
+    <string name="copyright_source_notice">This project\'s own source code is licensed under GPL-3.0-only. Third-party components, dictionaries, and AI models included or used with this project remain governed by their respective licenses or terms of use, which are not altered by this project\'s GPL-3.0 license.\n\n- Project-Authored &amp; Created Content: Code, scenarios, candidate/phrase/symbol entries, and custom graphics created for this project are project content unless an external source is noted.\n- On-Device Operation: Powered by an offline model without relying on cloud quotas; depending on the release version, the model may be bundled at install time or require additional download.\n- librime: RIME Developers; BSD-3-Clause. Used for Bopomofo/Pinyin composition and candidate handling.\n- Rime Bopomofo, Terra Pinyin, Prelude, and Essay: RIME Developers; upstream license is LGPL-3.0. Essay provides Chinese vocabulary candidate data.\n- CC-CEDICT: MDBG / CC-CEDICT; CC BY-SA 3.0. Used in accordance with attribution and ShareAlike terms.\n- OpenCC: BYVoid and contributors; Apache-2.0. Used for script conversion.\n- Rime Native Static Dependencies: Native builds include components such as spdlog (MIT), yaml-cpp (MIT), LevelDB (BSD-3-Clause), marisa-trie (BSD-2-Clause or LGPL-2.1-or-later), Boost (BSL-1.0), and OpenCC (Apache-2.0) under their respective licenses.\n- llamacpp-kotlin and llama.cpp: llamacpp-kotlin is licensed under Apache-2.0, and llama.cpp under MIT, for on-device inference integration.\n- Gemma 3 1B IT Q4_K_M: Google Gemma model governed by the Gemma Terms of Use, not GPL; quantized GGUF release sourced from Unsloth.\n- Android / AndroidX / Jetpack Compose / Kotlin: Platform and UI libraries governed by their respective licenses (commonly Apache-2.0).</string>
+    <string name="about_app_title">About App</string>
+    <string name="about_app_version">Version %1$s (%2$d)</string>
+    <string name="about_app_close">Close</string>
+    <string name="privacy_usage_button">Privacy &amp; Usage</string>
+    <string name="privacy_usage_title">Privacy &amp; Usage</string>
+    <string name="privacy_usage_details">On-device operation: AI scenario replies and related inference use a local offline model without relying on cloud quotas. Depending on the release, the model may be bundled at install time or require an additional download.\n\nLocal processing: Input and model inference are handled by on-device features. Do not enter highly confidential information or sensitive personal data.\n\nClear data: Clearing the local user dictionary may remove existing learned words. Back up any information you need before clearing.</string>
+</resources>
