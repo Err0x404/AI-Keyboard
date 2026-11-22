@@ -2,7 +2,7 @@
 > An Android input method that pairs an AI model with streamlined character and word selection to assist users with reference phrases across different scenarios.
 
 ## Open Source
-`public_AI Keyboard` provides the sanitized open-source codebase and documentation for AI Keyboard (鍵盤). It retains the core Android application, scenario/dictionary/symbol configurations, localization resources (`values` and `values-zh-rTW`), and build scripts while excluding build caches, prebuilt native libraries, and local/sensitive data; model binary files are not included.
+`public_AI Keyboard` provides the sanitized open-source codebase and documentation for AI Keyboard (鍵盤). It retains the core Android application, scenario/dictionary/symbol configurations, localization resources ( `values` and `values-zh-rTW` ), and build scripts while excluding build caches, prebuilt native libraries, and local/sensitive data; model binary files are not included.
 
 ---
 
