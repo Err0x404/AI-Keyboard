@@ -9,7 +9,7 @@
 
 • GitHub Releases (Recommended)
 
-https://github.com/Err0x404/no_touch/releases
+[https://github.com/Err0x404/AI-Keyboard/releases](https://github.com/Err0x404/AI-Keyboard/releases)
 
 ---
 
