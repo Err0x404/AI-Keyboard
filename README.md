@@ -31,7 +31,13 @@
 
 ## 3. Copyright and Source Notice
 
-This project's own source code is licensed under **GPL-3.0-only**. Note that this public repository's open-source release contains the project's source code and necessary configuration/assets rather than the complete source code of every integrated third-party dependency; obtaining or building a full source distribution still requires retrieving the upstream source code of the applicable third-party components and build dependencies. Third-party components, dictionaries, and AI models included or used with this project remain governed by their respective licenses or terms of use, which are not altered by this project's GPL-3.0 license.
+This project's own source code is licensed under **GPL-3.0-only**. 
+
+Note that this public repository's open-source release contains the project's source code and necessary configuration/assets rather than the complete source code of every integrated third-party dependency; 
+obtaining or building a full source distribution still requires retrieving the upstream source code of the applicable third-party components and build dependencies. 
+
+Third-party components, dictionaries, and AI models included or used with this project remain governed by their respective licenses or terms of use, 
+which are not altered by this project's GPL-3.0 license.
 
 - **Project-Authored & Created Content**: Code, scenarios, candidate/phrase/symbol entries, and custom graphics created for this project are project content unless an external source is noted.
 - **On-Device Operation**: Powered by an offline model without relying on cloud quotas; depending on the release version, the model may be bundled at install time or require additional download.
