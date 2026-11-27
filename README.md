@@ -7,6 +7,7 @@
 https://github.com/Err0x404/AI-Keyboard/releases/tag/public_AI_Keyboard
 
 • ZIP
+
 https://github.com/Err0x404/AI-Keyboard/tree/main/public_AI%20Keyboard
 
 ---
