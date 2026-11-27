@@ -5,6 +5,7 @@
 `public_AI Keyboard` provides the sanitized open-source codebase and documentation for AI Keyboard. It retains the core Android application, scenario/dictionary/symbol configurations, localization resources（ `values` and `values-zh-rTW` ）, and build scripts while excluding build caches, prebuilt native libraries, and local data; model binary files are not included.
 
 https://github.com/Err0x404/AI-Keyboard/releases/tag/public_AI_Keyboard
+
 • ZIP
 https://github.com/Err0x404/AI-Keyboard/tree/main/public_AI%20Keyboard
 
